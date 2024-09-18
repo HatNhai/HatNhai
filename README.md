@@ -1,5 +1,2 @@
-👋 Hello! I'm Jasmine Vu, a passionate programmer with a strong interest in studying and applying algorithms to solve real-world problems. From the very beginning of my journey at Thuy Loi University, I've been fascinated by the power of programming and how it can transform abstract ideas into concrete and useful solutions.
-💻 Throughout my studies and personal development, I've worked extensively with programming languages such as C, C++ (especially Object-Oriented Programming - OOP), and C#. I focus not only on writing code but also on optimizing algorithms to ensure that the applications and solutions I develop are highly efficient. From university projects to personal ideas that I'm pursuing, every line of code I write is the result of persistence and an unwavering passion.
-🌱 Currently, I'm focused on completing my university degree while constantly seeking opportunities to learn new technologies and techniques. I believe that continuous learning and skill improvement are key to becoming a proficient programmer. Moreover, I'm always open to sharing knowledge and collaborating with other developers to create useful products that bring real value to the community.
-🤝 If you have any questions, suggestions, or collaboration opportunities, please don't hesitate to reach out to me. I'm eager to connect and work with those who share the same passion and enthusiasm.
-
+ABOUT ME:
+I am currently studying IS (Information Systems) at ThuyLoi University
